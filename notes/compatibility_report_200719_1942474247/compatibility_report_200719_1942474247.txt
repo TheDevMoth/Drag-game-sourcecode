@@ -1,0 +1,2 @@
+Converting GML script: ${project_dir}\scripts\mouse_over\mouse_over.gml
+Converted description /// @description mouse_over()
